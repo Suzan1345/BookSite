@@ -17,8 +17,8 @@ export default {
     return {
       bookList: [
         { title: 'Der Hobbit', author: 'J.R.R. Tolkien' },
-        { title: '1984', author: 'George Orwell' },
-        { title: 'Brave New World', author: 'Aldous Huxley' }
+        { title: 'normal people', author: 'Sally Rooney' },
+        { title: 'Circe', author: 'Madeline Miller' }
       ]
     };
   }
